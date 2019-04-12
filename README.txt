@@ -1,5 +1,4 @@
-The QuantSeq Data Analysis Pipelines (Bluebee Genomics Platform) are available for a
-range of species and are adapted specifically for the analysis of QuantSeq 3' 
+The QuantSeq Data Analysis Pipelines (Bluebee® Genomics Platform) are available for a range of species and are adapted specifically for the analysis of QuantSeq 3' 
 mRNA-seq data.
 
 1. Connect and Upload Your Data
