@@ -1,8 +1,11 @@
 The QuantSeq Data Analysis Pipelines (Bluebee Genomics Platform) are available for a
-range of species and are adapted specifically for the analysis of QuantSeq 3' mRNA-seq data.
+range of species and are adapted specifically for the analysis of QuantSeq 3' 
+mRNA-seq data.
 
 1. Connect and Upload Your Data
-Zipped individual FASTQ files (up to 1.5 GB per file) are the required input for QuantSeq Data Analysis Pipelines. Uploading and downloading data is handled by the Bluebee® Service Connector.
+Zipped individual FASTQ files (up to 1.5 GB per file) are the required input for 
+QuantSeq Data Analysis Pipelines. Uploading and downloading data is handled by the 
+Bluebee® Service Connector.
 
 2. Run Your Pipeline
 There are various pipeline options to then select to analyze your data:
