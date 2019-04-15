@@ -7,7 +7,7 @@ QuantSeq Data Analysis Pipelines. Uploading and downloading data is handled by t
 Bluebee® Service Connector.
 
 2. Run Your Pipeline
-There are various pipeline options to then select to analyze your data:
+There are various pipeline options to use and then select to analyze your data:
   • QuantSeq FWD and REV Data Analysis Pipelines for multiple species.
   • QuantSeq FWD-UMI Data Analysis Pipeline (FWD-UMI) for multiple species.
   
