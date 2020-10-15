@@ -15,7 +15,8 @@ There are various pipeline options to use and then select to analyze your data:
 Select the Runs option in the Project to view the status of your runs. To view and 
 download the data, select the Data option
 
-4. Upload results to Titan and use run FFPE_mRNA_multiqc_report_generation.sh followed
+4. Creating a folder called "results" in the corresponding project folder and upload
+the results to the folder. Then run FFPE_mRNA_multiqc_report_generation.sh followed
 by FFPE_mRNA_count_matrix_generation.sh to generate multiqc report and the count file. 
 (The two bash files are in /common/genomics-core/bin). 
 
