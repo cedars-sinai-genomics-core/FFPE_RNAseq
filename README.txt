@@ -25,6 +25,6 @@ folder). Then run FFPE_mRNA_multiqc_report_generation.sh followed
 by FFPE_mRNA_count_matrix_generation.sh to generate multiqc report and the count file. 
 (The two bash files are in /common/genomics-core/bin). 
 
-Note: Mapping QC will be added later to the Github page. 
+Note: Mapping QC will be added later to the result generation pipeline. 
 Contact support@lexogen.com if the size of a FASTQ file is bigger than 1.5 GB and they will give corresponding activation code. 
 
