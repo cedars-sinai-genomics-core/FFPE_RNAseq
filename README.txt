@@ -26,5 +26,8 @@ by FFPE_mRNA_count_matrix_generation.sh to generate multiqc report and the count
 (The two bash files are in /common/genomics-core/bin). 
 
 Note: Mapping QC will be added later to the result generation pipeline. 
+
 Contact support@lexogen.com if the size of a FASTQ file is bigger than 1.5 GB and they will give corresponding activation code. 
+
+The password and login of Bluebee platform can be found at Box: Genomics Core Staff Shared Folder > Laboratory Sciences > Various Login info.xlsx. 
 
